@@ -2,3 +2,6 @@ Let's go
 
 
 adidiconando mais coisa pra testear push com bronca que teve da credencial
+
+
+credencial ssh configurada, testando push com ela (https não funcionou ficava zoando pedindo token gigante, uma merda).
